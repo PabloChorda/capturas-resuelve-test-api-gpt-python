@@ -1,0 +1,1 @@
+# capturas-resuelve-test-api-gpt
